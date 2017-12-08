@@ -1,0 +1,20 @@
+1.node 环境
+  安装node.js
+  配置环境变量
+  	path
+  dom下运行:
+  	node --version
+
+	2.npm环境
+	npm install jquery
+	安装cnpm
+	或
+	sinopia
+3.全局安装vue-cli
+	cnpm install --global vue-cli
+4.创建一个基于webpack的vue但组件文件 项目
+	vue init webpack app(联网)
+	cd app
+	cnpm install
+	到此vue的基础架构就单间成功
+5.可以使用

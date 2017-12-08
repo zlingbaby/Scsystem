@@ -1,0 +1,19 @@
+vue-cli
+	sc
+	build
+	config
+	src
+		componemts
+		main.js(入口文件)
+			new Vue({
+				el:'#app'
+				components:{
+					App
+				}
+			})
+		App.vue
+			显示路由模板
+			<routter-view>
+	static
+	index.html
+
